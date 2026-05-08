@@ -7,61 +7,61 @@
 ## Pages
 
 ### Home
-https://eitan-shop-ca7943bf.zappy5.app
+https://example.com
 Discover the best tech gadgets and affordable home essentials at Eitan shop online store. Browse top deals, enjoy easy checkout, and get everything you need delivered fast. Start shopping now!
 
 ### About
-https://eitan-shop-ca7943bf.zappy5.app/about
+https://example.com/about
 Meet the people behind Eitan shop online store — built with passion to bring you the best tech gadgets and everyday essentials at prices that make sense. Learn why thousands of shoppers trust us!
 
 ### Contact
-https://eitan-shop-ca7943bf.zappy5.app/contact
+https://example.com/contact
 Have a question about your order or need help finding the best tech gadgets online USA? Reach out to the Eitan shop team today — fast, friendly support is just one message away. Contact us now!
 
 ### Products
-https://eitan-shop-ca7943bf.zappy5.app/products
+https://example.com/products
 Our Products - Eitan shop
 
 ### Cart
-https://eitan-shop-ca7943bf.zappy5.app/cart
+https://example.com/cart
 Your Cart
 
 ### Checkout
-https://eitan-shop-ca7943bf.zappy5.app/checkout
+https://example.com/checkout
 Checkout
 
 ### Login
-https://eitan-shop-ca7943bf.zappy5.app/login
+https://example.com/login
 Customer Login
 
 ### Account
-https://eitan-shop-ca7943bf.zappy5.app/account
+https://example.com/account
 My Account
 
 ### Order Success
-https://eitan-shop-ca7943bf.zappy5.app/order-success
+https://example.com/order-success
 Thank you for your order
 
 ### Product Detail
-https://eitan-shop-ca7943bf.zappy5.app/product/:slug
+https://example.com/product/:slug
 Product Details - Eitan shop
 
 ### Category
-https://eitan-shop-ca7943bf.zappy5.app/category/:slug
+https://example.com/category/:slug
 Products - Eitan shop
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://eitan-shop-ca7943bf.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://eitan-shop-ca7943bf.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://eitan-shop-ca7943bf.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -89,8 +89,8 @@ A simple online store focused on selling products. The user is looking to build 
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://eitan-shop-ca7943bf.zappy5.app/sitemap.xml
-- Robots: https://eitan-shop-ca7943bf.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://eitan-shop-ca7943bf.zappy5.app/llms-full.txt
-- Products (JSON): https://eitan-shop-ca7943bf.zappy5.app/products.json
-- Products (Google Merchant RSS): https://eitan-shop-ca7943bf.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
